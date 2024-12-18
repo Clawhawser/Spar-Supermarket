@@ -1,1 +1,1 @@
-We tried our best
+This is a fun project!
